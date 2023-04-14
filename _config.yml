@@ -54,8 +54,8 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 lsi: false
-safe: true
-source: /
+safe: false
+source: .
 incremental: false
 highlighter: rouge
 gist:
